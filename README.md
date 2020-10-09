@@ -1,6 +1,6 @@
-#TicTacToe Game
+# TicTacToe Game
 
-##Using Python GUI created TicTacToe game.
+## Using Python GUI created TicTacToe game.
 
 <img src="images/TTT1.jpg">
 <img src="images/TTT2.jpg">
